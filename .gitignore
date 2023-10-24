@@ -6,6 +6,7 @@ main.exe
 *.exe
 go-admin
 go-admin.exe
+tmp/
 temp/
 !temp
 vendor
